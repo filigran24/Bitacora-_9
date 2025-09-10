@@ -453,3 +453,6 @@ export default CardRecr;
   }
 }
 
+<img width="1364" height="630" alt="image" src="https://github.com/user-attachments/assets/6be0ee36-f193-4bd4-be4b-4442e0627a34" />
+
+
